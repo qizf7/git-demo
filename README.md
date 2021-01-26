@@ -9,6 +9,7 @@
 ### update on dev
 
 
+<<<<<<< HEAD
 ### update on dev dev
 
 ### update on dev dev dev
@@ -22,6 +23,8 @@
 ### update on dev dev
 
 ### update on dev dev dev
+=======
+>>>>>>> master
 ### update on master
 
 
